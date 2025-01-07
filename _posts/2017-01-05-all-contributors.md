@@ -279,6 +279,7 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 <span style="display: inline-block; width: 130px;"><a href="https://github.com/nikelborm"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/29357907?v=4?s=100" width="100px;" alt="Eva"/><br /><sub><b>Eva</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=nikelborm" title="Documentation">📖</a></span>
 <span style="display: inline-block; width: 130px;"><a href="http://bit.ly/cubuanic-github-contributions"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/75673?v=4?s=100" width="100px;" alt="Oleg Kostyuk"/><br /><sub><b>Oleg Kostyuk</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=cub-uanic" title="Documentation">📖</a></span>
 <span style="display: inline-block; width: 130px;"><a href="https://github.com/crummyh"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/188942224?v=4?s=100" width="100px;" alt="crummyh"/><br /><sub><b>crummyh</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=crummyh" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/skoch13"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/29177689?v=4?s=100" width="100px;" alt="Sergey Kochetkov"/><br /><sub><b>Sergey Kochetkov</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=skoch13" title="Code">💻</a></span>
 
 
 
