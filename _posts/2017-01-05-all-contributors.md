@@ -292,6 +292,9 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 <span style="display: inline-block; width: 130px;"><a href="http://nickbrady.dev"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/55930078?v=4?s=100" width="100px;" alt="Nick"/><br /><sub><b>Nick</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Apeppapig450" title="Bug reports">🐛</a></span>
 
 
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/subframe7536"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/78338239?v=4?s=100" width="100px;" alt="Song"/><br /><sub><b>Song</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Asubframe7536" title="Bug reports">🐛</a></span>
+
+
 
 
 <!-- markdownlint-restore -->
